@@ -1,0 +1,110 @@
+/*==================================================
+ WORDPRESS Comments Template CSS just copy and paste
+ By Attaullah Wardag.
+=====================================================*/
+
+.comments-box{
+    margin: 20px 0;
+    padding: 25px;
+    background-color: #fff;
+}
+.comments-box h3 {
+    font-size: 14px;
+    font-weight: 400;
+    margin: 5px 0 10px 0;
+}
+.comment-body{
+    position: relative;
+    margin: 30px 0;
+
+}
+.comment-body p{
+    top:30px;
+    font-size: 13px;
+    left: 85px;
+}
+.commentlist{
+    list-style: none;
+}
+.comment-author img {
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+}
+.says{
+    display: none;
+}
+.fn{
+    position: absolute;
+    left: 85px;
+}
+.fn a{
+    text-decoration: none;
+    font-style:normal;
+    color: indianred;
+    font-size: 16px;
+    font-weight: 600;
+}
+.comment-meta{
+    position: absolute;
+    top:30px;
+    left: 85px;
+}
+.comment-meta a{
+    text-decoration: none;
+    font-style:normal;
+    color: indianred;
+    font-size: 14px;
+    font-weight: 300;
+}
+.reply a{
+    text-decoration: none;
+    color: indianred;
+}
+.children{
+    list-style: none;
+    margin-left: 40px;
+}
+
+/******** comments from design **********/
+
+.comment-respond {
+    margin-top: 50px;
+}
+
+.comment-notes {
+    font-size: 90%;
+    margin-bottom: 40px;
+}
+
+.comment-form label {
+    display: block;
+    margin-bottom: 10px;
+}
+.comment-form textarea {
+    width: 100%;
+    margin-bottom: 20px;
+}
+#email, #url, #author{
+    height: 40px;
+    margin-bottom: 20px;
+    width: 100%;
+    border-radius: 0;
+    border:.3px solid rgb(32, 32, 32)
+}
+.form-submit > input{
+    padding: 10px 15px;
+    background-color: indianred;
+    color: ivory;
+    font-size: 16px;
+    border: none;
+}
+
+.comment-form input[type=submit] {
+    width: auto;
+}
+
+/******** comments from design **********/
+/*==================================================
+ WORDPRESS Comments Template CSS just copy and paste
+=====================================================*/
